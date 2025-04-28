@@ -1,4 +1,4 @@
-{
+
   "APIs": {
     "zenz": "https://api.zahwazein.xyz",
     "apikey": "YOURAPIKEY"
@@ -14,8 +14,12 @@
     "author": "https://api.zahwazein.xyz"
   },
   "owner": [
-    "62812XXX"
+    "6283893721263
   ],
   "timezone": "Asia/Jakarta",
   "footer": "Powered by https://api.zahwazein.xyz"
-}
+}1. For Multi Device
+> npm run start
+
+2. For Legacy
+> npm run legacy
